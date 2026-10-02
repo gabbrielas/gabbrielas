@@ -1,10 +1,15 @@
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql//mysql-original.svg"">
-</div>
- 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript&theme=light" alt="languages"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="frontend stack"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="backend stack"/>
+</p>
+
 <div align="center"> 
   <a href="mailto:gabrielaztacontato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
