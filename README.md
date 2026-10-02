@@ -5,7 +5,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql//mysql-original.svg"">
 </div>
  
-<div> 
+<div align="center"> 
   <a href="mailto:gabrielaztacontato@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"></a>
    &nbsp;
@@ -16,7 +16,3 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Portuguese%20%7C%20English-2c5364?style=flat-square" alt="languages"/>
 </p>
-
-<div align="center">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/gabbrielas/gabbrielas/output/github-contribution-grid-snake.svg"/>
-</div>
